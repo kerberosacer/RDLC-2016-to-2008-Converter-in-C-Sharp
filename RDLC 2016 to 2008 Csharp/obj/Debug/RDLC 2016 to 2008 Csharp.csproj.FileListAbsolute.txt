@@ -1,0 +1,15 @@
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.csprojAssemblyReference.cache
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\App.g.cs
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp_MarkupCompile.cache
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp_MarkupCompile.lref
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\bin\Debug\RDLC 2016 to 2008 Csharp.exe.config
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\bin\Debug\RDLC 2016 to 2008 Csharp.exe
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\bin\Debug\RDLC 2016 to 2008 Csharp.pdb
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\MainWindow.baml
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.g.resources
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC_2016_to_2008_Csharp.Properties.Resources.resources
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.csproj.GenerateResource.cache
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.exe
+C:\Users\jandrews\source\repos\RDLC 2016 to 2008 Csharp\RDLC 2016 to 2008 Csharp\obj\Debug\RDLC 2016 to 2008 Csharp.pdb
